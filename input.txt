@@ -1,7 +1,7 @@
 staff choice Umashe_rule Heine Heine_Borel_Theorem Mean_Value_Theorem rolle_Theorem Calculus
 staff choice Cantor_Schroder_Bernstein_Theorem Zorn's_Lemma Cantor_Theorem Russell's_Paradox Set_Theory
 staff choice Konig_Theorem Hall_Theorem Erdos_Szekeres Combinatorics
-staff choice SVDelta Jordan_Theorem No_Name_Theorem3 techniovision Algebra
+staff choice SVDelta Jordan_Theorem The_Spectral_Theorem techniovision Algebra
 inside contest 2 Heine_Borel_Theorem Calculus
 inside contest 27 Heine_Borel_Theorem Calculus
 inside contest 271 Heine_Borel_Theorem Calculus
