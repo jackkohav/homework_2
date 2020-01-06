@@ -1,20 +1,112 @@
-inside contest 1 General_Three_Years CS
-inside contest 2 General_Four_Years CS
-inside contest 3 General_Three_Years CS
-techniovision 4 General_Three_Years EE
-staff choice General_Three_Years General_Four_Years Software_Engineering CS
 staff choice Odyssey Alpha Idea Youth
-inside contest 6 Odyssey
-inside contest 6 Alpha
-inside contest 7 Idea
-techniovision 8 Odyssey Math
-techniovision 8 Odyssey Math
-techniovision 8 Odyssey Math
-techniovision 8 Odyssey Math
-techniovision 8 Odyssey Math
-techniovision 9 Odyssey Math
-techniovision 10 Odyssey Biology
-techniovision 5 General_Three_Years EE
-techniovision 4 General_Three_Years EE
-inside contest 2 General_Four_Years CS
-inside contest 2 General_Four_Years CS
+inside contest -4 Lame_Subject_1 Biology
+inside contest -3 Calculus Mathematics
+inside contest -2 Combinatorics Mathematics
+inside contest -1 Algebra Mathematics
+inside contest 0 Algebra Mathematics
+inside contest 1 Sofware_Engineering CS
+inside contest 2 Sofware_Engineering CS
+inside contest 3 Sofware_Engineering CS
+inside contest 4 Sofware_Engineering CS
+staff choice General_Three_Years Sofware_Engineering General_Four_Years CS
+inside contest 5 General_Four_Years CS
+inside contest 6 Sofware_Engineering CS
+inside contest 7 Sofware_Engineering CS
+inside contest 8 Algebra Mathematics
+inside contest 9 Sofware_Engineering CS
+inside contest 10 Sofware_Engineering CS
+inside contest 11 Sofware_Engineering CS
+inside contest 12 Sofware_Engineering CS
+inside contest 13 Sofware_Engineering CS
+staff choice Cyber General Odyssey
+inside contest 14 Sofware_Engineering CS
+inside contest 15 Sofware_Engineering CS
+inside contest 16 Sofware_Engineering CS
+inside contest 17 Sofware_Engineering CS
+inside contest 18 Sofware_Engineering CS
+inside contest 19 Sofware_Engineering CS
+inside contest 20 Algebra Mathematics
+inside contest 21 Sofware_Engineering CS
+inside contest 22 Lame_Subject_4 Biology
+inside contest 23 Calculus Mathematics
+inside contest 24 Calculus Mathematics
+inside contest 25 Lame_Subject_4 Biology
+inside contest 26 Lame_Subject_4 Biology
+inside contest 27 Calculus Mathematics
+inside contest 28 Lame_Subject_4 Biology
+inside contest 29 Calculus Mathematics
+inside contest 30 Calculus Mathematics
+inside contest 31 Sofware_Engineering CS
+inside contest 32 Lame_Subject_4 Biology
+inside contest 33 Calculus Mathematics
+inside contest 34 Sofware_Engineering CS
+inside contest 35 Lame_Subject_3 Biology
+inside contest 36 Algebra Mathematics
+inside contest 37 Lame_Subject_3 Biology
+inside contest 38 Lame_Subject_4 Biology
+inside contest 138 Lame_Subject_3 Biology
+inside contest 238 Lame_Subject_2 Biology
+inside contest 338 Lame_Subject_4 Biology
+inside contest 438 Lame_Subject_2 Biology
+inside contest 538 Lame_Subject_3 Biology
+inside contest 638 Lame_Subject_1 Biology
+inside contest 738 Lame_Subject_1 Biology
+inside contest 39 Algebra Mathematics
+inside contest 40 Sofware_Engineering CS
+inside contest 41 Sofware_Engineering CS
+inside contest 42 Calculus Mathematics
+inside contest 43 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+techniovision 14 Combinatorics CS
+techniovision -4 Combinatorics Biology
+techniovision 40 Combinatorics CS
+techniovision 638 Software_Engineering Biology
+techniovision -2 Algebra Mathematics
+techniovision 31415 Software_Engineering Mathematics
+techniovision 31415 Software_Engineering Mathematics
+techniovision 31415 Software_Engineering Mathematics
+techniovision 31415 Software_Engineering Mathematics
+techniovision 31415 Software_Engineering Mathematics
+techniovision 31415 Software_Engineering Mathematics
+techniovision 14 General CS
+techniovision 15 General CS
+techniovision 16 General CS
+techniovision 17 General CS
+techniovision 18 General CS
+techniovision 19 General CS
+techniovision 22 Lame_Subject_1 Biology
+techniovision 25 Lame_Subject_1 Biology
+techniovision 26 Lame_Subject_1 Biology
+techniovision 28 Lame_Subject_1 Biology
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+staff choice Combinatorics Calculus Set_Theory Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+staff choice Lame_Subject_1 Lame_Subject_2 Lame_Subject_3 Lame_Subject_4 Biology
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
+inside contest 314159 Algebra Mathematics
