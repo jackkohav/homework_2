@@ -1,3 +1,6 @@
+import Techniovision
+
+
 def inside_contest(faculty, file_name):
     f = open(file_name, 'r')
     voted_ids = []
@@ -31,7 +34,9 @@ def inside_contest(faculty, file_name):
     return current_max_key
 
 
+t = Techniovision.TechniovisionCreate()
 print(inside_contest("CS", "input.txt"))
+Techniovision.TechniovisionDestroy(t)
 
 
 
