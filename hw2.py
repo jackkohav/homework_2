@@ -3,23 +3,23 @@ def inside_contest(faculty, file_name):
     voted_ids = []
     scores = {}
     for line in f:
-        splitted_line = line.split()
-        if splitted_line[0] != "staff":
+        split_line = line.split()
+        if split_line[0] != "staff":
             continue
-        if splitted_line[len(splitted_line)-1] != faculty:
+        if split_line[len(split_line)-1] != faculty:
             continue
-        scores[splitted_line[2]] = 20
-        for program_index in range(3, len(splitted_line)-2):
-            scores[splitted_line[program_index]] = 0
+        scores[split_line[2]] = 20
+        for program_index in range(3, len(split_line)-2):
+            scores[split_line[program_index]] = 0
     for line in f:
-        splitted_line = line.split()
-        if splitted_line[0] != "inside" \
-                or splitted_line[4] != faculty \
-                or splitted_line[2] in voted_ids:
+        split_line = line.split()
+        if split_line[0] != "inside" \
+                or split_line[4] != faculty \
+                or split_line[2] in voted_ids:
             continue
 
-        voted_ids.append(splitted_line[2])
-        current_program = splitted_line[3]
+        voted_ids.append(split_line[2])
+        current_program = split_line[3]
         if current_program in scores:
             scores[current_program] += 1
     current_max_key = list(scores.keys())[0]
