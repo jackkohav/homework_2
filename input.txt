@@ -57,7 +57,7 @@ inside contest 30 Hall_Theorem Combinatorics
 inside contest 33 techniovision Algebra
 techniovision 40 No_Name_Theorem2 Set_Theory
 techniovision 41 Erdos_Szekeres Set_Theory
-techniovision 42 Konig_Theorem 
+techniovision 42 Konig_Theorem Algebra
 techniovision 43 Hall_Theorem Algebra
 techniovision 44 Hall_Theorem Algebra
 techniovision 45 Hall_Theorem Algebra
