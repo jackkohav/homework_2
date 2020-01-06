@@ -1,112 +1,84 @@
-staff choice Odyssey Alpha Idea Youth
-inside contest -4 Lame_Subject_1 Biology
-inside contest -3 Calculus Mathematics
-inside contest -2 Combinatorics Mathematics
-inside contest -1 Algebra Mathematics
-inside contest 0 Algebra Mathematics
-inside contest 1 Sofware_Engineering CS
-inside contest 2 Sofware_Engineering CS
-inside contest 3 Sofware_Engineering CS
-inside contest 4 Sofware_Engineering CS
-staff choice General_Three_Years Sofware_Engineering General_Four_Years CS
-inside contest 5 General_Four_Years CS
-inside contest 6 Sofware_Engineering CS
-inside contest 7 Sofware_Engineering CS
-inside contest 8 Algebra Mathematics
-inside contest 9 Sofware_Engineering CS
-inside contest 10 Sofware_Engineering CS
-inside contest 11 Sofware_Engineering CS
-inside contest 12 Sofware_Engineering CS
-inside contest 13 Sofware_Engineering CS
-staff choice Cyber General Odyssey
-inside contest 14 Sofware_Engineering CS
-inside contest 15 Sofware_Engineering CS
-inside contest 16 Sofware_Engineering CS
-inside contest 17 Sofware_Engineering CS
-inside contest 18 Sofware_Engineering CS
-inside contest 19 Sofware_Engineering CS
-inside contest 20 Algebra Mathematics
-inside contest 21 Sofware_Engineering CS
-inside contest 22 Lame_Subject_4 Biology
-inside contest 23 Calculus Mathematics
-inside contest 24 Calculus Mathematics
-inside contest 25 Lame_Subject_4 Biology
-inside contest 26 Lame_Subject_4 Biology
-inside contest 27 Calculus Mathematics
-inside contest 28 Lame_Subject_4 Biology
-inside contest 29 Calculus Mathematics
-inside contest 30 Calculus Mathematics
-inside contest 31 Sofware_Engineering CS
-inside contest 32 Lame_Subject_4 Biology
-inside contest 33 Calculus Mathematics
-inside contest 34 Sofware_Engineering CS
-inside contest 35 Lame_Subject_3 Biology
-inside contest 36 Algebra Mathematics
-inside contest 37 Lame_Subject_3 Biology
-inside contest 38 Lame_Subject_4 Biology
-inside contest 138 Lame_Subject_3 Biology
-inside contest 238 Lame_Subject_2 Biology
-inside contest 338 Lame_Subject_4 Biology
-inside contest 438 Lame_Subject_2 Biology
-inside contest 538 Lame_Subject_3 Biology
-inside contest 638 Lame_Subject_1 Biology
-inside contest 738 Lame_Subject_1 Biology
-inside contest 39 Algebra Mathematics
-inside contest 40 Sofware_Engineering CS
-inside contest 41 Sofware_Engineering CS
-inside contest 42 Calculus Mathematics
-inside contest 43 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-techniovision 14 Combinatorics CS
-techniovision -4 Combinatorics Biology
-techniovision 40 Combinatorics CS
-techniovision 638 Software_Engineering Biology
-techniovision -2 Algebra Mathematics
-techniovision 31415 Software_Engineering Mathematics
-techniovision 31415 Software_Engineering Mathematics
-techniovision 31415 Software_Engineering Mathematics
-techniovision 31415 Software_Engineering Mathematics
-techniovision 31415 Software_Engineering Mathematics
-techniovision 31415 Software_Engineering Mathematics
-techniovision 14 General CS
-techniovision 15 General CS
-techniovision 16 General CS
-techniovision 17 General CS
-techniovision 18 General CS
-techniovision 19 General CS
-techniovision 22 Lame_Subject_1 Biology
-techniovision 25 Lame_Subject_1 Biology
-techniovision 26 Lame_Subject_1 Biology
-techniovision 28 Lame_Subject_1 Biology
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-staff choice Combinatorics Calculus Set_Theory Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-staff choice Lame_Subject_1 Lame_Subject_2 Lame_Subject_3 Lame_Subject_4 Biology
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
-inside contest 314159 Algebra Mathematics
+staff choice Umashe_rule Heine Heine_Borel_Theorem Mean_Value_Theorem rolle_Theorem Calculus
+Staff choice Cantor_Schroder_Bernstein_Theorem Zorn's_Lemma Cantor_Theorem Russell's_Paradox Set_Theory
+staff choice Konig_Theorem Hall_Theorem Erdos_Szekeres Combinatorics
+staff choice No_Name_Theorem1 No_Name_Theorem2 No_Name_Theorem3 techniovision Algebra 
+staff choice 
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 27 Heine_Borel_Theorem Calculus
+inside contest 271 Heine_Borel_Theorem Calculus
+inside contest 2718 Heine_Borel_Theorem Calculus
+inside contest 27182 Heine_Borel_Theorem Calculus
+inside contest 271828 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 3 Hall_Theorem Combinatorics
+inside contest 4 Hall_Theorem Combinatorics
+inside contest 5 Hall_Theorem Combinatorics
+inside contest 7 Hall_Theorem Combinatorics
+inside contest 8 Hall_Theorem Combinatorics
+inside contest 9 Hall_Theorem Combinatorics
+inside contest 10 Hall_Theorem Combinatorics
+inside contest 11 Hall_Theorem Combinatorics
+inside contest 12 Hall_Theorem Combinatorics
+inside contest 13 Hall_Theorem Combinatorics
+inside contest 14 Hall_Theorem Combinatorics
+inside contest 15 Hall_Theorem Combinatorics
+inside contest 16 Hall_Theorem Combinatorics
+inside contest 17 Hall_Theorem Combinatorics
+inside contest 18 Hall_Theorem Combinatorics
+inside contest 19 Hall_Theorem Combinatorics
+inside contest 20 Hall_Theorem Combinatorics
+inside contest 21 Hall_Theorem Combinatorics
+inside contest 22 Hall_Theorem Combinatorics
+inside contest 23 Hall_Theorem Combinatorics
+inside contest 24 Hall_Theorem Combinatorics
+inside contest 25 Hall_Theorem Combinatorics
+inside contest 26 Hall_Theorem Combinatorics
+inside contest 27 Hall_Theorem Combinatorics
+inside contest 28 Hall_Theorem Combinatorics
+inside contest 29 Hall_Theorem Combinatorics
+inside contest 30 Hall_Theorem Combinatorics
+inside contest 33 techniovision Algebra
+techniovision 40 No_Name_Theorem2 Set_Theory
+techniovision 41 Erdos_Szekeres Set_Theory
+techniovision 42 Konig_Theorem 
+techniovision 43 Hall_Theorem Algebra
+techniovision 44 Hall_Theorem Algebra
+techniovision 45 Hall_Theorem Algebra
+techniovision 46 Hall_Theorem Algebra
+techniovision 47 Hall_Theorem Algebra
+techniovision 48 Hall_Theorem Algebra
+techniovision 49 Hall_Theorem Algebra
+techniovision 50 Konig_Theorem Algebra
+techniovision 51 Konig_Theorem Algebra
+techniovision 52 Konig_Theorem Algebra
+techniovision 53 Konig_Theorem Algebra
+techniovision 54 Konig_Theorem Algebra
+techniovision 55 Konig_Theorem Algebra
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
