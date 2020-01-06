@@ -1,139 +1,83 @@
-inside contest 1 General_Three_Years CS
-inside contest 2 General_Four_Years CS
-inside contest 3 General_Three_Years CS
-techniovision 4 General_Three_Years EE
-staff choice General_Three_Years General_Four_Years Software_Engineering CS
-techniovision 5 General_Three_Years EE
-techniovision 4 General_Three_Years EE
-inside contest 2 General_Four_Years CS
-inside contest 2 General_Four_Years CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest 1 Software_Engineering CS
-inside contest0General_Three_Years CS
-inside contest1General_Three_Years CS
-inside contest2General_Three_Years CS
-inside contest3General_Three_Years CS
-inside contest4General_Three_Years CS
-inside contest5General_Three_Years CS
-inside contest6General_Three_Years CS
-inside contest7General_Three_Years CS
-inside contest8General_Three_Years CS
-inside contest9General_Three_Years CS
-inside contest10General_Three_Years CS
-inside contest11General_Three_Years CS
-inside contest12General_Three_Years CS
-inside contest13General_Three_Years CS
-inside contest14General_Three_Years CS
-inside contest15General_Three_Years CS
-inside contest16General_Three_Years CS
-inside contest17General_Three_Years CS
-inside contest18General_Three_Years CS
-inside contest19General_Three_Years CS
-inside contest20General_Three_Years CS
-inside contest21General_Three_Years CS
-inside contest22General_Three_Years CS
-inside contest23General_Three_Years CS
-inside contest24General_Three_Years CS
-inside contest25General_Three_Years CS
-inside contest26General_Three_Years CS
-inside contest27General_Three_Years CS
-inside contest28General_Three_Years CS
-inside contest29General_Three_Years CS
+staff choice Umashe_rule Heine Heine_Borel_Theorem Mean_Value_Theorem rolle_Theorem Calculus
+staff choice Cantor_Schroder_Bernstein_Theorem Zorn's_Lemma Cantor_Theorem Russell's_Paradox Set_Theory
+staff choice Konig_Theorem Hall_Theorem Erdos_Szekeres Combinatorics
+staff choice SVDelta Jordan_Theorem The_Spectral_Theorem techniovision Algebra
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 27 Heine_Borel_Theorem Calculus
+inside contest 271 Heine_Borel_Theorem Calculus
+inside contest 2718 Heine_Borel_Theorem Calculus
+inside contest 27182 Heine_Borel_Theorem Calculus
+inside contest 271828 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 2 Heine_Borel_Theorem Calculus
+inside contest 3 Hall_Theorem Combinatorics
+inside contest 4 Hall_Theorem Combinatorics
+inside contest 5 Hall_Theorem Combinatorics
+inside contest 7 Hall_Theorem Combinatorics
+inside contest 8 Hall_Theorem Combinatorics
+inside contest 9 Hall_Theorem Combinatorics
+inside contest 10 Hall_Theorem Combinatorics
+inside contest 11 Hall_Theorem Combinatorics
+inside contest 12 Hall_Theorem Combinatorics
+inside contest 13 Hall_Theorem Combinatorics
+inside contest 14 Hall_Theorem Combinatorics
+inside contest 15 Hall_Theorem Combinatorics
+inside contest 16 Hall_Theorem Combinatorics
+inside contest 17 Hall_Theorem Combinatorics
+inside contest 18 Hall_Theorem Combinatorics
+inside contest 19 Hall_Theorem Combinatorics
+inside contest 20 Hall_Theorem Combinatorics
+inside contest 21 Hall_Theorem Combinatorics
+inside contest 22 Hall_Theorem Combinatorics
+inside contest 23 Hall_Theorem Combinatorics
+inside contest 24 Hall_Theorem Combinatorics
+inside contest 25 Hall_Theorem Combinatorics
+inside contest 26 Hall_Theorem Combinatorics
+inside contest 27 Hall_Theorem Combinatorics
+inside contest 28 Hall_Theorem Combinatorics
+inside contest 29 Hall_Theorem Combinatorics
+inside contest 30 Hall_Theorem Combinatorics
+inside contest 33 techniovision Algebra
+techniovision 40 Jordan_Theorem Set_Theory
+techniovision 41 Erdos_Szekeres Set_Theory
+techniovision 42 Konig_Theorem Algebra
+techniovision 43 Hall_Theorem Algebra
+techniovision 44 Hall_Theorem Algebra
+techniovision 45 Hall_Theorem Algebra
+techniovision 46 Hall_Theorem Algebra
+techniovision 47 Hall_Theorem Algebra
+techniovision 48 Hall_Theorem Algebra
+techniovision 49 Hall_Theorem Algebra
+techniovision 50 Konig_Theorem Algebra
+techniovision 51 Konig_Theorem Algebra
+techniovision 52 Konig_Theorem Algebra
+techniovision 53 Konig_Theorem Algebra
+techniovision 54 Konig_Theorem Algebra
+techniovision 55 Konig_Theorem Algebra
+techniovision 56 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 57 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 58 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 59 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 60 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 61 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 62 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 63 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 64 Cantor_Schroder_Bernstein_Theorem Calculus
+techniovision 65 Cantor_Schroder_Bernstein_Theorem Calculus
