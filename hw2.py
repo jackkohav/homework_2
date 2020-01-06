@@ -7,7 +7,7 @@ def inside_contest(faculty, file_name):
     scores = {}
     for line in f:
         split_line = line.split()
-        if split_line[0] != "staff":
+        if split_line[0] != 'staff':
             continue
         if split_line[len(split_line)-1] != faculty:
             continue
@@ -16,7 +16,7 @@ def inside_contest(faculty, file_name):
             scores[split_line[program_index]] = 0
     for line in f:
         split_line = line.split()
-        if split_line[0] != "inside" \
+        if split_line[0] != 'inside' \
                 or split_line[4] != faculty \
                 or split_line[2] in voted_ids:
             continue
@@ -31,12 +31,31 @@ def inside_contest(faculty, file_name):
         if value > current_max_value:
             current_max_key = key
             current_max_value = value
+    f.close()
     return current_max_key
 
 
-t = Techniovision.TechniovisionCreate()
-print(inside_contest("CS", "input.txt"))
-Techniovision.TechniovisionDestroy(t)
+techniovision = Techniovision.TechniovisionCreate()
+f = open('input.txt', 'r')
+print(inside_contest('CS', 'input.txt'))
+contesting_programs = {}
+for line in f:
+    split_line = line.split()
+    if split_line[0] != 'staff':
+        continue
+    current_faculty = split_line[len(split_line)-1]
+    winning_program = inside_contest(current_faculty, 'input.txt')
+    contesting_programs[winning_program] = current_faculty
+
+for line in f:
+    split_line = line.split()
+    #if split_line[0] != 'techniovision':
+    #    continue
+    current_id = int(split_line[1])
+    print(split_line + "\n")
+    #Techniovision.TechniovisionStudentVotes(techniovision, )
+f.close
+Techniovision.TechniovisionDestroy(techniovision)
 
 
 
