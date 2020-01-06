@@ -3,6 +3,17 @@ inside contest 2 General_Four_Years CS
 inside contest 3 General_Three_Years CS
 techniovision 4 General_Three_Years EE
 staff choice General_Three_Years General_Four_Years Software_Engineering CS
+staff choice Odyssey Alpha Idea Youth
+inside contest 6 Odyssey
+inside contest 6 Alpha
+inside contest 7 Idea
+techniovision 8 Odyssey Math
+techniovision 8 Odyssey Math
+techniovision 8 Odyssey Math
+techniovision 8 Odyssey Math
+techniovision 8 Odyssey Math
+techniovision 9 Odyssey Math
+techniovision 10 Odyssey Biology
 techniovision 5 General_Three_Years EE
 techniovision 4 General_Three_Years EE
 inside contest 2 General_Four_Years CS
