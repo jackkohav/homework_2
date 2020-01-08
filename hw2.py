@@ -49,7 +49,8 @@ for line in input_file:
         continue
     current_faculty = split_line[len(split_line)-1]
     winning_program = inside_contest(current_faculty, input_name)
-    print('Faculty: ' + current_faculty + ', Winning Program: ' + winning_program)
+    print('Faculty: ' + current_faculty + ', Winning Program: '
+          + winning_program)
     contesting_programs[winning_program] = current_faculty
 
 
